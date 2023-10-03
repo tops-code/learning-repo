@@ -1,3 +1,3 @@
 #learning Github
 
-learingn 
+learning github 
